@@ -1,0 +1,16 @@
+.env
+backend/.env
+backend/internal/config/.env
+
+frontend/node_modules/
+
+frontend/build/
+backend/backend
+
+backend/uploads/avatars/*
+!backend/uploads/avatars/.gitkeep
+backend/uploads/workouts/*
+!backend/uploads/workouts/.gitkeep
+
+.DS_Store
+**/.DS_Store

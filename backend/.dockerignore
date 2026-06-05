@@ -1,0 +1,4 @@
+uploads/
+internal/config/.env
+.DS_Store
+backend
